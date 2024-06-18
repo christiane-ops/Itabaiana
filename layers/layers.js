@@ -118,11 +118,11 @@ var lyr_280680005000003_7 = new ol.layer.Vector({
                     title: '<img src="styles/legend/280680005000003_7.png" /> 280680005000003'
                 });
 var group_CENFE_SETEMBRO_PNADC_OUT = new ol.layer.Group({
-                                layers: [lyr_280050605000005_6,lyr_280680005000003_7,],
+                                layers: [lyr_280500005000006_5,lyr_280050605000005_6,lyr_280680005000003_7,],
                                 fold: "open",
                                 title: "CENFE_SETEMBRO_PNADC_OUT"});
 var group_CNEFE_OUTUBRO_PNADC_NOV = new ol.layer.Group({
-                                layers: [lyr_280050605000007_4,lyr_280500005000006_5,],
+                                layers: [lyr_280050605000007_4,],
                                 fold: "open",
                                 title: "CNEFE_OUTUBRO_PNADC_NOV"});
 var group_CNEFE_DEZEMBRO_PNADC_JAN = new ol.layer.Group({
